@@ -1,0 +1,1 @@
+# OOP_LAB-ASS_6_SOLID-Principles
