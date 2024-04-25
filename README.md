@@ -2,7 +2,7 @@
 
 Lab Assignment 6 SOLID Principles
 
-![alt text](image.png)
+![alt text](UML.png)
 
 Improve the following codes to implement SOLID principles in OOP.
 
